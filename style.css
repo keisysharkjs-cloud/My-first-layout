@@ -45,6 +45,10 @@ li {
    margin-left: 24px;
 }
 /* ===Меню=== */
+.menu {
+   margin-left: 36px;
+}
+
 .page-title {
    width: 844px;
    height: 289px;
